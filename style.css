@@ -1,0 +1,12 @@
+:root{
+--rich-black: #000814ff;
+--oxford-blue: #001d3dff;
+--yale-blue: #003566ff;
+--mikado-yellow: #ffc300ff;
+--gold: #ffd60aff;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
